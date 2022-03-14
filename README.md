@@ -1,2 +1,2 @@
 # Olist
-Brazilian E-Commerce Public Dataset
+Brazilian E-Commerce Data
